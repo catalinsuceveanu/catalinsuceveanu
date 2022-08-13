@@ -1,4 +1,5 @@
-# 👋 Hi, I’m @catalinsuceveanu
+# 👋 Hi, I’m Catalin Suceveanu 
+@catalinsuceveanu
 
 I am a software developer with many people skils. I worked as a software developer at Vipra technologies to create a CLI (command line interface) program which pulled requested raw data from an employee time tracking app. After the extraction of different types of data, there are a few types of data processing that can be done to get reports of the efficiency and other metrics. All the reports can be printed in the command line or sent directly to slack, or any other channel.
 
