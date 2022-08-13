@@ -9,10 +9,12 @@ I have a high level of people skills. I help people be the best version of thems
 
 For 2 years now, I have been learning german and been keen on moving to Zürich. I love the city, the culture and it simply fit my lifestyle.
 
-## 🌱 I’m currently learning, Python, Selenium, Data Structures and Algorithms, Virtual Environments (Poetry)
+## 🌱 I’m currently learning:
+# Python, Selenium, Data Structures and Algorithms, Virtual Environments (Poetry)
 
 ## 📫 How to reach me: 
 email -> catalinsuceveanu@gmail.com
+
 LinkedIn -> https://www.linkedin.com/in/catalin-suceveanu/
 
 <!---
